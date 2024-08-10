@@ -21,7 +21,7 @@ A simple, secure PHP login system featuring essential functionalities like user 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/Joshua-Grant-Kana/Simple-login-system.git
+   git clone https://github.com/Grant-6551/Simple-login-system.git
    ```
 
 2. **Navigate to the project directory:**
