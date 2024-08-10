@@ -79,5 +79,3 @@ A simple, secure PHP login system featuring essential functionalities like user 
 This project is open-source and available under the [MIT License](LICENSE).
 
 ---
-
-This version uses emojis and clear section breaks to improve readability and presentation, making it more engaging for users.
