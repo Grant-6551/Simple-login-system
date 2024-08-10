@@ -1,7 +1,3 @@
-Here’s a more styled and visually structured version of your README:
-
----
-
 # Simple PHP Login System
 
 A simple, secure PHP login system featuring essential functionalities like user authentication, a personalized dashboard, profile viewing, and profile updating.
@@ -22,13 +18,13 @@ A simple, secure PHP login system featuring essential functionalities like user 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/repo-name.git
+   git clone https://github.com/Joshua-Grant-Kana/Simple-login-system.git
    ```
 
 2. **Navigate to the project directory:**
 
    ```bash
-   cd repo-name
+   cd Simple-login-system
    ```
 
 3. **Set up your database:**
