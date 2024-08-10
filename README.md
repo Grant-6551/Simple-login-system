@@ -1,4 +1,7 @@
-# Simple PHP Login System
+
+ ## Simple PHP Login System
+
+</div>
 
 A simple, secure PHP login system featuring essential functionalities like user authentication, a personalized dashboard, profile viewing, and profile updating.
 
@@ -58,9 +61,8 @@ A simple, secure PHP login system featuring essential functionalities like user 
 - `index.php` - Main landing page with login functionality.
 - `dashboard.php` - User dashboard after successful login.
 - `profile.php` - Displays user profile information.
-- `update-profile.php` - Form to update user details.
+- `update_profile.php` - Form to update user details.
 - `config.php` - Database configuration file.
-- `functions.php` - Helper functions for the application.
 
 ---
 
